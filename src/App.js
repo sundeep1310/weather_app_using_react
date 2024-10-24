@@ -3,7 +3,7 @@ import './App.css';
 import Search from './components/Search';
 import Weather from './components/Weather';
 
-const apiKey = "b1566717f0192bcdbff3890e6257734e";
+const apiKey = "your api key here";
 const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
 
 function App() {
